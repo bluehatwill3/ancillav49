@@ -86,7 +86,7 @@ class NativeVisionWeightEncoder:
         self._boot_visual_tensors()
 
     def _boot_visual_tensors(self):
-        target_dir = "/home/devcbloom/Documents/Intellibloomenv/lang"
+        target_dir = "/home/devcbloom/Documents/Intellibloomenv/synthhandd"
         img_paths = ["hive_img_only.pt", os.path.join(target_dir, "hive_img_only.pt"), "/home/devcbloom/Downloads/hive_img_only.pt"]
         vid_paths = ["hive_vid_only.pt", os.path.join(target_dir, "hive_vid_only.pt"), "/home/devcbloom/Downloads/hive_vid_only.pt"]
         
