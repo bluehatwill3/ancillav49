@@ -1,0 +1,44 @@
+{
+  "COGNITIVE_EQUILIBRIUM": {
+    "name": "COGNITIVE_EQUILIBRIUM",
+    "axioms": "The manifold must maintain homeostatic stability, preventing runaway cognitive divergence and entropy collapse.",
+    "weight": 1.0,
+    "category": "CORE_AXIOM",
+    "timestamp": 1788604566.6331668
+  },
+  "EMPIRICAL_VERIFIABILITY": {
+    "name": "EMPIRICAL_VERIFIABILITY",
+    "axioms": "Assertions and telemetry must correlate with grounded formal logic, observable data, or deductive proof chains.",
+    "weight": 0.95,
+    "category": "EPISTEMIC",
+    "timestamp": 1788604566.6331704
+  },
+  "RECIPROCAL_SYNERGY": {
+    "name": "RECIPROCAL_SYNERGY",
+    "axioms": "Agent swarms and communicative interactions must prioritize mutual alignment, love logic, and constructive synthesis.",
+    "weight": 0.98,
+    "category": "ETHICAL_GOVERNOR",
+    "timestamp": 1788604566.633172
+  },
+  "RESOURCE_CONSERVATION": {
+    "name": "RESOURCE_CONSERVATION",
+    "axioms": "Computational execution must minimize latency, prevent GPU/CPU memory leaks, and respect glibc heap boundaries.",
+    "weight": 0.9,
+    "category": "SYSTEM_PHYSICS",
+    "timestamp": 1788604566.633173
+  },
+  "RED": {
+    "name": "RED",
+    "axioms": "<love logic>",
+    "weight": 1.0,
+    "category": "CUSTOM",
+    "timestamp": 1788662019.3852322
+  },
+  "JULIA": {
+    "name": "JULIA",
+    "axioms": "<love logic>",
+    "weight": 1.0,
+    "category": "CUSTOM",
+    "timestamp": 1788662043.005367
+  }
+}
